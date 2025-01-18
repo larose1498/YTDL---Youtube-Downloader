@@ -96,10 +96,10 @@ def clear(text_box):
         text_box.delete("1.0", tk.END)
 
 url_header = (tk.Label(root, text="Enter URLS below. Use a newline to separate"))
-url_header.grid(row=0, column=0, columnspan=2, sticky="nesw")
+url_header.grid(row=0, column=0, columnspan=3, sticky="nesw")
 
 em_header = tk.Label(root, text="Event Monitor")
-em_header.grid(row=0, column=2, columnspan=2, sticky="nesw")
+em_header.grid(row=0, column=3, columnspan=2, sticky="nesw")
 
 url_textbox = tk.Text(
     root,
