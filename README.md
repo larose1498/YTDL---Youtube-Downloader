@@ -1,2 +1,23 @@
 # Youtube-mp3-downloader
 Downloads Youtube videos as mp3 files
+
+In order for this to work, you must have python 3.12 or higher (older version may work, but no guarantee).
+This is built heavily on yt_dlp
+
+--WINDOWS USERS--
+
+-Install python for command line
+-Run the command python3 -m pip install yt_dlp
+-If yt_dlp is installed, run the command python3 -m pip install --upgrade yt_dlp
+-cd into the directory with the files
+-run the command python3 UI.py
+-Optionally create .bat file to automate last two steps
+
+--LINUX USERS--
+
+-python3 pip install yt_dlp, or python3 pip install --upgrade yt_dlp
+-cd into the directory with the files
+-run the commmand python3 UI.py
+-Optionally create script to automate last two steps
+
+
