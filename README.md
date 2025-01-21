@@ -17,7 +17,7 @@ Optionally create .bat file to automate last two steps.
 
 python3 pip install yt_dlp, or python3 pip install --upgrade yt_dlp.
 cd into the directory with the files.
-run the commmand python3 UI.py.
+run the command python3 UI.py.
 Optionally create script to automate last two steps.
 
 
