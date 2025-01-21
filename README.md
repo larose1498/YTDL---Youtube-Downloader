@@ -1,4 +1,4 @@
-# YTMP3---Youtube-Music-Downloader
+# Tune-Grabber---Youtube-Music-Downloader
 Downloads Youtube videos as mp3 files
 
 In order for this to work, you must have python 3.12 or higher (older version may work, but no guarantee).
