@@ -15,8 +15,9 @@ Optionally create .bat file to automate last two steps.
 
 --LINUX USERS--
 
-python3 pip install yt_dlp, or python3 pip install --upgrade yt_dlp.
-cd into the directory with the files.
+sudo apt update
+sudo apt upgrade
+sudo apt install yt-dlp
 run the command python3 UI.py.
 Optionally create script to automate last two steps.
 
