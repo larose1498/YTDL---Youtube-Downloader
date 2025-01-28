@@ -6,11 +6,15 @@ This is built heavily on yt_dlp
 
 --WINDOWS USERS--
 
-Install python for command line.
-Run the command python3 -m pip install yt_dlp.
-If yt_dlp is installed, run the command python3 -m pip install --upgrade yt_dlp.
-cd into the directory with the files.
-run the command python3 UI.py.
+ - Install python for command line from Microsoft Store
+   
+- Run the command python3 -m pip install yt_dlp.
+
+- If yt_dlp is installed, run the command python3 -m pip install --upgrade yt_dlp.
+
+- cd into the directory with the files.
+
+- run the command python3 UI.py.
 Optionally create .bat file to automate last two steps.
 
 --LINUX USERS--
@@ -20,6 +24,8 @@ Optionally create .bat file to automate last two steps.
 - sudo apt upgrade
 
 - sudo apt install yt-dlp
+
+- cd into the directory with the files
   
 - run the command python3 UI.py.
 Optionally create script to automate last two steps.
